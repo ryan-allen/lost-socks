@@ -1,5 +1,3 @@
-require "lost-socks/version"
-
 module LostSocks
 
   VERSION = "0.0.1"
