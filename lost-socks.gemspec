@@ -8,8 +8,8 @@ Gem::Specification.new do |s|
   s.authors     = ["Ryan Allen"]
   s.email       = ["ryan@yeahnah.org"]
   s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.summary     = %q{TODO: Automates verificaiton of DNS migrations.}
+  s.description = %q{TODO: Lost Socks is a Ruby DSL (lol) for specifying DNS records, and verifying these records against name servers. Handy for large DNS migrations, where a record here or there are inevitably left behind, misspelled or entered incorrectly.}
 
   s.rubyforge_project = "lost-socks"
 
