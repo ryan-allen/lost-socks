@@ -4,7 +4,7 @@ require "lost-socks"
 
 Gem::Specification.new do |s|
   s.name        = "lost-socks"
-  s.version     = Lost::VERSION
+  s.version     = LostSocks::VERSION
   s.authors     = ["Ryan Allen"]
   s.email       = ["ryan@yeahnah.org"]
   s.homepage    = "https://github.com/ryan-allen/lost-socks"
