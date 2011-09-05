@@ -1,10 +1,10 @@
 # -*- encoding: utf-8 -*-
 $:.push File.expand_path("../lib", __FILE__)
-require "lost-socks/version"
+require "lost-socks"
 
 Gem::Specification.new do |s|
   s.name        = "lost-socks"
-  s.version     = Lost::Socks::VERSION
+  s.version     = Lost::VERSION
   s.authors     = ["Ryan Allen"]
   s.email       = ["ryan@yeahnah.org"]
   s.homepage    = "https://github.com/ryan-allen/lost-socks"
